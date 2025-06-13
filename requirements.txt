@@ -1,0 +1,15 @@
+langchain
+langchain-community
+tavily-python
+google.generativeai
+langchain_google_genai
+langsmith 
+pandas 
+langchain_experimental 
+matplotlib 
+langgraph 
+langchain_core
+pyPDF2
+python-docx
+streamlit
+python-dotenv
